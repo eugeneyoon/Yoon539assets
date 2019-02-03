@@ -1,0 +1,53 @@
+.skip{
+  font-family: cursive;
+  background-color: #f9d371;
+}
+
+body{
+    background-color:#bbbbbb;
+}
+
+.current{
+  text-transform: uppercase;
+  font-style: italic;
+  background-color: #c9fcc9;
+}
+
+nav li{
+  text-decoration: none;
+	font-family: fantasy;
+	display:inline;
+	background-color: #ffc9bb;
+	color: black;
+}
+
+li{
+	background-color: black;
+	color: white;
+}
+
+section{
+  font-family: monospace;
+  font-size: 16px;
+  background-color: white;
+}
+
+footer{
+  font-family: fantasy;
+}
+
+.frontimages{
+  width: 25%;
+}
+
+.banner{
+  width: 30%;
+}
+
+.chordsimages{
+  width: 10%;
+}
+
+.diagrams{
+  width: 35%;
+}
